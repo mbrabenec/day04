@@ -1,0 +1,113 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+nav {
+    background: #fff;
+    text-align: center;
+    margin: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+header {
+    padding: 0;
+    margin: 0;
+}
+header img{
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+}
+.logo_y {
+    color: #FFE964;
+}
+.logo_r {
+    color: #FF523D;
+}
+.logo_b {
+    color: #223C88;
+}
+h1 {
+    position: absolute;
+    left: 15%;
+    top: 10%;
+    color: white;
+    font-size: 250%;
+    line-height: 1.2em;
+    border-bottom:  solid white ;
+    margin: 0;
+}
+
+
+
+h2 {
+    padding: 0;
+    margin: 0;
+}
+
+
+.mission {
+    width: 100vw;
+    background: #FFE964;
+    margin: 0 auto;
+    padding: 40px 0;
+    text-align: center;
+}
+.mission p, .mission h2 {
+    display: inline-block;
+    width: 70%;
+    margin: auto 0;
+    padding: 30px 0 0 0;
+}
+
+
+.about {
+    width: 100vw;
+    background: white;
+    padding: 40px 0;
+    text-align: center;
+}
+.about p, .about h2 {
+    display: inline-block;
+    width: 70%;
+    text-align: left;
+    padding: 30px 0 0 0;
+}
+
+
+
+
+.team {
+    width: 100vw;
+    background: #FF523D;
+    text-align: center;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+.team h2{
+    display: inline-block;
+    color: white;
+    width: 70%;
+    text-align: left;
+
+}
+
+
+
+footer {
+    width: 100vw;
+    background: #223C88;
+}
+
+
+
+
+
